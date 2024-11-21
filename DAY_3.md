@@ -35,3 +35,24 @@ This fn is added to nums as a documentation
 
 
 These are some of the keywords and iterations.
+
+
+***Some simple jupyter works***
+
+fruits = ["apple", 70, "mango", 30]
+fruits.append(30)
+print(fruits)
+
+
+fruits.append("grapes")  - here append used to add new item
+print(fruits)
+
+
+range = (0,5)
+stop = 5
+list(range)    - here, 0 represents ***start***
+               - here, 5 represents ***stop***
+	       - a third number for say (0,5,1) - here 1 is ***skip***
+
+ 
+
